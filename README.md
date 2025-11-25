@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+Hi, I'm Boris, currently a Go dev at Yandex.
+This is my GitHub. Mainly used for university assignments and other miscellaneous stuff.
 <!--
 **bfrolikov/bfrolikov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
